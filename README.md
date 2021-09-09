@@ -7,8 +7,13 @@
 [CompTIA Network+ Lab EIGRP](https://www.youtube.com/watch?v=8EI8c84cf0U)<br>
 []()<br>
 []()<br>
-###วีดีโอเสริมความรู้จาก พี่มาร์ค
+### วีดีโอเสริมความรู้จาก พี่มาร์ค<br>
 [DNS Overview and Secondary DNS Zone](https://www.youtube.com/watch?v=38rZhm_rQH4)<br>
+[]()<br>
+### NetPrime (เว็ปของคนไทย)<br>
+[[Webinar] เรียนรู้การใช้งาน EVE NG เบื้องต้นแบบ Step by Step](https://www.youtube.com/watch?v=fTyafs1Etag)<br>
+[]()<br>
+[]()<br>
 []()<br>
 ### CISCO SWITCH TROUBLESHOOTING 
 [CISCO SWITCH TROUBLESHOOTING TICKET 1 | VLAN STP](https://www.youtube.com/watch?v=5hx_SMx2wL4)<br>
