@@ -4,8 +4,11 @@
 [CompTIA Network+ Lab SSH](https://www.youtube.com/watch?v=KRRnlr5p9gc)<br>
 [CompTIA Network+ Lab ARP Table](https://www.youtube.com/watch?v=RpLUbPwl_Ag)<br>
 [Configure Enterprise Wireless Network](https://www.youtube.com/watch?v=NmhYZgtWSBU)<br>
+[CompTIA Network+ Lab EIGRP](https://www.youtube.com/watch?v=8EI8c84cf0U)<br>
 []()<br>
 []()<br>
+###วีดีโอเสริมความรู้จาก พี่มาร์ค
+[DNS Overview and Secondary DNS Zone](https://www.youtube.com/watch?v=38rZhm_rQH4)<br>
 []()<br>
 ### CISCO SWITCH TROUBLESHOOTING 
 [CISCO SWITCH TROUBLESHOOTING TICKET 1 | VLAN STP](https://www.youtube.com/watch?v=5hx_SMx2wL4)<br>
