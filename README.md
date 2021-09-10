@@ -5,6 +5,9 @@
 [CompTIA Network+ Lab ARP Table](https://www.youtube.com/watch?v=RpLUbPwl_Ag)<br>
 [Configure Enterprise Wireless Network](https://www.youtube.com/watch?v=NmhYZgtWSBU)<br>
 [CompTIA Network+ Lab EIGRP](https://www.youtube.com/watch?v=8EI8c84cf0U)<br>
+[Configure Windows Server for RAS with BGP](https://www.youtube.com/watch?v=9koHAbLT5v0)<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
 ### วีดีโอเสริมความรู้จาก พี่มาร์ค<br>
@@ -22,6 +25,11 @@
 [CISCO SWITCH TROUBLESHOOTING TICKET 4 | PORT SECURITY](https://www.youtube.com/watch?v=PqHtEIU3ESU)<br>
 []()<br>
 
+### Jobskillshare Community (Channel)<br>
+[Remote IT Skills - Live Session with Jobskillshare, KevTech and IT Professionals](https://www.youtube.com/watch?v=90t1VpC0UCM)<br>
+[]()<br>
+[]()<br>
+[]()<br>
 ### TOP 10 Etherchannel Interview Questions & Answers
 [Interview Questions & Answers](https://www.youtube.com/watch?v=UtoRkUH8FEI)<br>
 [BGP Interview Questions and Answers Part 1](https://www.youtube.com/watch?v=8ASOa23-I2s)<br>
